@@ -3,7 +3,7 @@
 This app is post viewing application. Basically, it shows post list with post title and 120 character of post text.
 When you click on any post item you can see post details. It include post title, all post text, post owner name and post owner username.
 
-# Whar are they in project as a technical:
+# What are they in project as a technical:
 - MVVM architecture 
 - Jetpack compose
 - Navigation
